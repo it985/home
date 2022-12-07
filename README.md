@@ -1,6 +1,3 @@
-[![Website](https://img.shields.io/website-up-down-green-red/http/i.dmego.cn.svg)](http://i.dmego.cn/)
-[![License](https://img.shields.io/github/license/dmego/home.github.io.svg)](/LICENSE)
-[![Say Thanks](https://img.shields.io/badge/Say-Thanks!-1EAEDB.svg)](https://saythanks.io/to/dmego)
 
 ### 个人主页
 
@@ -45,9 +42,3 @@
 ### 更新记录
 - 2022-06-10
   - 发布 NPM 包，使用 UNPKG 作为资源文件的 CDN 
-
-
-### Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dmego/home.github.io&type=Date)](https://star-history.com/#dmego/home.github.io&Date)
-
