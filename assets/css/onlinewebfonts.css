@@ -5,4 +5,13 @@
     url("https://unpkg.com/dmego-home-page@latest/assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.woff") format("woff"), /* chrome firefox */
     url("https://unpkg.com/dmego-home-page@latest/assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
     url("https://unpkg.com/dmego-home-page@latest/assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.svg#Engravers' Old English BT") format("svg"); /* iOS 4.1- */
+
+ /*   
+    src: url("/assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.eot");
+    src: url("./assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.eot?#iefix") format("embedded-opentype"),
+    url("./assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.woff2") format("woff2"), 
+    url("./assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.woff") format("woff"), 
+    url("./assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.ttf") format("truetype"), 
+    url("./assets/fonts/d571b52b60b5617399ce8eab62bf3eb3.svg#Engravers' Old English BT") format("svg"); 
+*/
 }
